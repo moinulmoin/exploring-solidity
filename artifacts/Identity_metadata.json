@@ -65,18 +65,18 @@
 			"bytecodeHash": "ipfs"
 		},
 		"optimizer": {
-			"enabled": true,
+			"enabled": false,
 			"runs": 200
 		},
 		"remappings": []
 	},
 	"sources": {
 		"indentity.sol": {
-			"keccak256": "0x316a061001e4d17b4104939b4537bd5d2226c370342e43230bce678fe0f09aff",
+			"keccak256": "0x4ac879764f6b4d2a65ebccae1cca5f65eb362e89360e5d87bb2312cfe104586b",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://89a8532e13f3aaf8aa11036dd93e9082a909ee7b3a373d2606947bd10e750e61",
-				"dweb:/ipfs/QmW2wtea4dph84PtYzx6g4TzfHAwPNaY27bJKCh5KhCZpN"
+				"bzz-raw://b9c905e6f702e494f0dbc5163ac217a7e9cd297c896fe346fe454c99564fea4e",
+				"dweb:/ipfs/QmV7VtKQPRhqnPth6coRTFAhVKDqMBe6Em1wtPF4BFRU7V"
 			]
 		}
 	},
